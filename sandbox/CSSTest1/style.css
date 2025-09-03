@@ -1,0 +1,23 @@
+body {
+  background-color: #eff5d2;
+}
+section {
+  background-color: #c6d870;
+  border: 3px solid #556b2f;
+  border-radius: 10px;
+}
+h1,
+h2 {
+  background-color: #556b2f;
+  color: #eff5d2;
+}
+h1 {
+  font-size: larger;
+}
+h2 {
+  font-size: medium;
+}
+p {
+  color: #556b2f;
+  font-size: small;
+}
